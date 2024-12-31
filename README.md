@@ -1,13 +1,13 @@
 # I’m a full-stack developer 👨‍💻 
 **Passionate about backend development 🔧 and keen on machine learning 🤖, currently honing my skills as a student 📚.**
 
-- 🌱 I’m currently learning React Native and Python 🐍 for backend development!  
+- 🌱 I’m currently learning React Native (Expo) and Python 🐍 for backend development!  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies.  
+- ❓ Ask me about anything related to python and maybe JavaScript*.  
   
 
-- ⚡ Fun fact: I love to use an anime-themed setup 🎨!  
+- ⚡ Fun fact: I have an anime-themed setup 🎨!  
   
 
 <br/>  
@@ -18,7 +18,7 @@
 
 | **Frontend** | **Backend** | **Databases** | **DevOps** | **Machine Learning** |
 |:------------:|:-----------:|:-------------:|:----------:|:--------------------:|
-| [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) [![Dokcer](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) [![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev) |
+| [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) [![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev) |
   
 </div>
 
