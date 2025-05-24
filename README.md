@@ -1,14 +1,13 @@
 # I’m a full-stack developer 👨‍💻 
 **Passionate about backend development 🔧 and keen on machine learning 🤖, currently honing my skills as a student 📚.**
 
-- 🌱 I’m currently learning React Native (Expo) and Python 🐍 for backend development!  
-  
+🌱 Currently Learning: FastAPT for API development, advanced Python for backend systems, and Postgres for data persistence.
 
-- ❓ Ask me about anything related to python and maybe JavaScript*.  
-  
+🧠 Areas of Interest: Backend architecture, generative AI, and applying large language models (LLMs) to solve real-world problems.
 
-- ⚡ Fun fact: I have an anime-themed setup 🎨!  
-  
+❓ Ask Me About: Python, backend development workflows, and the occasional JavaScript gotcha.
+
+⚡ Fun Fact: I work in Neovim with an anime-themed setup. Yes, it boosts productivity 😎.
 
 <br/>  
 
