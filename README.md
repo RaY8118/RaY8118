@@ -26,23 +26,26 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/RaY8118" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/parth-ghadi-327219247/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://instagram.com/parthghadi._._112" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a> 
-</div>  
-  
+<a href="https://ray8118-portfolio.pages.dev" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-%230066CC.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+</div>
+
 
 <br/>  
 
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaY8118&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=contribs,issues" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaY8118&layout=compact&hide_border=true&theme=transparent&hide=php" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaY8118&layout=compact&hide_border=true&theme=transparent&hide=php&langs_count=7" align="center" />
 </div>
 
 <br/>  
