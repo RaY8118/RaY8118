@@ -1,11 +1,11 @@
 # I’m a full-stack developer 👨‍💻 
 **Passionate about backend development 🔧 and keen on machine learning 🤖, currently honing my skills as a student 📚.**
 
-🌱 Currently Learning: FastAPT for API development, advanced Python for backend systems, and Postgres for data persistence.
+🌱 Currently Learning: FastAPT for API development, advanced Python for backend systems, and Postgres for data persistence with DSA in java.
 
 🧠 Areas of Interest: Backend architecture, generative AI, and applying large language models (LLMs) to solve real-world problems.
 
-❓ Ask Me About: Python, backend development workflows, and the occasional TypeScript gotcha.
+❓ Ask Me About: Python, backend development workflows, and the occasional Java gotcha.
 
 ⚡ Fun Fact: I work in Neovim with an anime-themed setup. Yes, it boosts productivity 😎.
 
@@ -44,7 +44,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaY8118&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=contribs,issues" align="center" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RaY8118&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=contribs,issues" align="center" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaY8118&layout=compact&hide_border=true&theme=transparent&hide=php&langs_count=8" align="center" />
 </div>
 
