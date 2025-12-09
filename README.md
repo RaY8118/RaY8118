@@ -41,13 +41,6 @@
 
 
 <br/>  
-
-## Github Stats  
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=RaY8118&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide=contribs,issues" align="center" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaY8118&layout=compact&hide_border=true&theme=transparent&hide=php&langs_count=8" align="center" />
-</div>
-
 <br/>  
 
 <br/>  
